@@ -75,10 +75,7 @@ This Dahsboard is hosted on Tableau public
 
 **Short video about My IPL Analysis**
 
-
-
-
-
+https://user-images.githubusercontent.com/78978975/182791391-dbc480ce-a7a8-481e-81e1-309a7807bd67.mp4
 
 ## Acknowledgements
 
