@@ -12,24 +12,28 @@ Developing an interface for users that accomplishes each of the following tasks
 
 **1)IPL 2020 and  2021 Seasons Overall Summary:**
 
-    Creating an Interactive Dashboard that gives information about the player performance by selecting each team icon. This includes 
+*Creating an Interactive Dashboard that gives information about the player performance by selecting each team icon. This includes* 
 
-    I.	Total Matches Played
+I.	Total Matches Played
+
     A.	No of win
     B.	No of Loss
     C.	No of Draw
-    II.	Top 3 Batsman 
-    III.	Top 3 Bowler
-    IV.	Man of the Match
+
+II.	Top 3 Batsman 
+
+III.	Top 3 Bowler
+
+IV.	Man of the Match
 
 
 **2)Batsman and Bowler Performance of Each team from 2008 to 2019 :**
 
-    Creating a dendrogram chart to display total runs and total wickets and player contributed by each team and their player from 2008-2019
+*Creating a dendrogram chart to display total runs and total wickets and player contributed by each team and their player from 2008-2019*
 
 **3)IPL Trophy won by each season :**
 
-    Creating Animation chart of IPL Trophy won by team for each season		
+*Creating Animation chart of IPL Trophy won by team for each season*
 ## Technical Skills Applied:
 
 * Tableau Public
@@ -71,7 +75,10 @@ This Dahsboard is hosted on Tableau public
 
 **Short video about My IPL Analysis**
 
-https://user-images.githubusercontent.com/78978975/182791391-dbc480ce-a7a8-481e-81e1-309a7807bd67.mp4
+
+
+
+
 
 ## Acknowledgements
 
